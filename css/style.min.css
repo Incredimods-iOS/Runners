@@ -3652,22 +3652,22 @@ video::-webkit-media-controls {
 }
 .box-popup#pop-info .slideshow .img {
   height: 100%;
-  background-image: url(../img/info-didac1@2x.png);
+  background-image: url(../img/info-didac1.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 }
 .box-popup#pop-info .slideshow #bloc-tuto2 .img {
-  background-image: url(../img/info-didac2@2x.png);
+  background-image: url(../img/info-didac2.png);
 }
 .box-popup#pop-info .slideshow #bloc-tuto3 .img {
-  background-image: url(../img/info-didac3@2x.png);
+  background-image: url(../img/info-didac3.png);
 }
 .box-popup#pop-info .slideshow #bloc-tuto4 .img {
-  background-image: url(../img/info-didac4@2x.png);
+  background-image: url(../img/info-didac4.png);
 }
 .box-popup#pop-info .slideshow #bloc-tuto5 .img {
-  background-image: url(../img/info-didac5@2x.png);
+  background-image: url(../img/info-didac5.png);
 }
 .box-popup#pop-info .slideshow .txt {
   display: -ms-flexbox;
